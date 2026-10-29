@@ -1,0 +1,16 @@
+{
+  "name": "onbellek-seridi",
+  "owner": {
+    "name": "Ali Erdem Gedik"
+  },
+  "metadata": {
+    "description": "Prompt-cache status for Claude Code and Codex"
+  },
+  "plugins": [
+    {
+      "name": "onbellek-seridi",
+      "source": "./plugins/claude",
+      "description": "Prompt-cache pill above the chat input (Claude Code)"
+    }
+  ]
+}

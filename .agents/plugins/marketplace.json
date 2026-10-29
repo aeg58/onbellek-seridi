@@ -1,0 +1,10 @@
+{
+  "name": "onbellek-seridi",
+  "interface": { "displayName": "Önbellek Şeridi" },
+  "plugins": [
+    {
+      "name": "onbellek-seridi-codex",
+      "source": { "source": "local", "path": "./plugins/codex" }
+    }
+  ]
+}

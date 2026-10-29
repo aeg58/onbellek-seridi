@@ -1,0 +1,8 @@
+{
+  "name": "onbellek-seridi-codex",
+  "version": "0.1.0",
+  "description": "After each Codex turn, shows how much of the prompt was served from cache (hit ratio only; Codex reports no cache lifetime)",
+  "author": { "name": "Ali Erdem Gedik" },
+  "homepage": "https://github.com/aeg58/onbellek-seridi",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "onbellek-seridi",
+  "version": "0.1.0",
+  "description": "Prompt-cache pill above the chat input: warm/cold, time left, hit ratio (Claude Code)",
+  "author": { "name": "Ali Erdem Gedik" },
+  "homepage": "https://github.com/aeg58/onbellek-seridi",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
